@@ -1,0 +1,15 @@
+table {
+    margin-top: 50px;
+}
+
+td {
+    width: 200px;
+    text-indent: 4px;
+}
+.main {
+    margin: 20px;
+}
+
+li, p {
+    font-size: 20px;
+}
